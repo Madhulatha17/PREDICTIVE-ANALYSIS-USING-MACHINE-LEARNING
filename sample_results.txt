@@ -1,0 +1,11 @@
+=== Feature Selection ===
+['sepal length (cm)',
+ 'sepal width (cm)',
+ 'petal length (cm)',
+ 'petal width (cm)']
+
+=== Model Evaluation ===
+Accuracy: 100.0 %
+
+=== Classification Report ===
+Precision, Recall, F1-Score displayed successfully.
